@@ -1,6 +1,1 @@
 kukus
-<<<<<<< HEAD
-gop
-=======
-new kukus
->>>>>>> SlavkaStudent
